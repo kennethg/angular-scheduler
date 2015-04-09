@@ -1,7 +1,7 @@
 multi-slider {
   position: relative;
   display: block;
-  height: 35;
+  height: 35px;
   overflow: hidden; }
   multi-slider .slot {
     position: absolute;
@@ -11,7 +11,7 @@ multi-slider {
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
-    line-height: 25;
+    line-height: 25px;
     color: #fff; }
   multi-slider .ghost {
     background: #5ab57a;
@@ -69,8 +69,8 @@ multi-slider {
     width: 95%; }
   .scheduler .schedrow {
     position: relative;
-    height: 35;
-    line-height: 35; }
+    height: 35px;
+    line-height: 35px; }
     .scheduler .schedrow:last-child, .scheduler .schedrow:last-child .grid-container {
       border-bottom: none; }
   .scheduler .timestamps {
