@@ -24,13 +24,13 @@ angular.module('scheduler', ['multislider', 'grid'])
         },
         link: function(scope){
             scope.labels = [
-                'Monday',
-                'Tuesday',
-                'Wednesday',
-                'Thursday',
-                'Friday',
-                'Saturday',
-                'Sunday'
+                'M',
+                'T',
+                'W',
+                'Th',
+                'F',
+                'Sa',
+                'Su'
             ];
         }
     };

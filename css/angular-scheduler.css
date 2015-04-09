@@ -382,14 +382,15 @@ multi-slider {
     display: block;
     float: left; }
   .scheduler .labels {
-    width: 15%;
+    text-align: center;
+    width: 5%;
     color: #666;
     border-right: 1px solid #ddd; }
     .scheduler .labels .row {
       padding: 0 5px;
       border-bottom: 1px solid #ddd; }
   .scheduler .data-area {
-    width: 85%; }
+    width: 95%; }
   .scheduler .row {
     position: relative;
     height: 35px;
@@ -405,6 +406,7 @@ multi-slider {
         border-right: none; }
 
 .grid-container {
+  text-align: left;
   width: 100%;
   position: absolute;
   top: 0;

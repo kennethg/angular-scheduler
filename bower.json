@@ -1,0 +1,23 @@
+{
+  "name": "angular-scheduler",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sonicnotify/angular-scheduler",
+  "authors": [
+    "Misha Greenberg <mishagreenberg@gmail.com>"
+  ],
+  "main": "lib/angular-scheduler.min.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Gruntfile.js",
+    "README.md",
+    "index.html",
+    "lib/angular-scheduler.js",
+    "scss"
+  ]
+}
