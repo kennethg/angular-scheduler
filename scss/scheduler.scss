@@ -30,8 +30,8 @@
 
     .schedrow {
         position: relative;
-        height: $line-height;
-        line-height: $line-height;
+        height: $scheduler-line-height;
+        line-height: $scheduler-line-height;
 
         &:last-child, &:last-child .grid-container {
             border-bottom: none;

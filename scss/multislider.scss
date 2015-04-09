@@ -2,7 +2,7 @@ multi-slider {
 
     position: relative;
     display: block;
-    height: $line-height;
+    height: $scheduler-line-height;
     overflow: hidden;
 
     .slot {
@@ -13,7 +13,7 @@ multi-slider {
         text-align: center;
         white-space: nowrap;
         overflow: hidden;
-        line-height: #{$line-height - 10};
+        line-height: #{ $scheduler-line-height - 10 };
         color: #fff;
     }
 
