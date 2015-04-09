@@ -414,5 +414,5 @@ multi-slider {
     padding: 0 5px; }
   .grid-container.striped div:nth-child(even) {
     background: #fafafa; }
-  .grid-container.no-labels .content {
+  .grid-container.no-labels .schedcontent {
     display: none; }
