@@ -386,16 +386,16 @@ multi-slider {
     width: 5%;
     color: #666;
     border-right: 1px solid #ddd; }
-    .scheduler .labels .row {
+    .scheduler .labels .schedrow {
       padding: 0 5px;
       border-bottom: 1px solid #ddd; }
   .scheduler .data-area {
     width: 95%; }
-  .scheduler .row {
+  .scheduler .schedrow {
     position: relative;
     height: 35px;
     line-height: 35px; }
-    .scheduler .row:last-child, .scheduler .row:last-child .grid-container {
+    .scheduler .schedrow:last-child, .scheduler .schedrow:last-child .grid-container {
       border-bottom: none; }
   .scheduler .timestamps {
     color: #aaa;

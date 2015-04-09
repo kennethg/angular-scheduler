@@ -17,7 +17,7 @@
         color: #666;
         border-right: 1px solid #ddd;
 
-        .row {
+        .schedrow {
             padding: 0 5px;
             border-bottom: 1px solid #ddd;
         }
@@ -28,7 +28,7 @@
         width: 95%;
     }
 
-    .row {
+    .schedrow {
         position: relative;
         height: $line-height;
         line-height: $line-height;
