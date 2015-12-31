@@ -17,7 +17,7 @@ angular.module('scheduler', ['multislider', 'grid'])
 
 .directive('scheduler', [function(){
     return {
-        templateUrl: 'templates/scheduler.html',
+        templateUrl: 'views/widgets/scheduler.html',
         restrict: 'E',
         scope: {
             slots: '=',
