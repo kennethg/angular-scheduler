@@ -9,7 +9,7 @@ angular.module('slot', ['handle'])
             tick: '='
         },
         restrict: 'E',
-        templateUrl: 'templates/slot.html',
+        templateUrl: 'views/widgets/slot.html',
         link: function(scope, element) {
 
 

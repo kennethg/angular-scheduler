@@ -23,7 +23,7 @@ angular.module('multislider', ['slot'])
             day: '='
         },
         restrict: 'E',
-        templateUrl: 'templates/multi-slider.html',
+        templateUrl: 'views/widgets/multi-slider.html',
         link: function(scope, element){
 
             // used for calculating relative click-events

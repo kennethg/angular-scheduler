@@ -7,7 +7,7 @@ angular.module('grid', [])
             tick: '='
         },
         restrict: 'E',
-        templateUrl: 'templates/grid.html',
+        templateUrl: 'views/widgets/grid.html',
         link: function(scope) {
             scope.range = function(n) {
                 return new Array(n);
