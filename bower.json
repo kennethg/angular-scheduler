@@ -5,7 +5,10 @@
   "authors": [
     "Misha Greenberg <mishagreenberg@gmail.com>"
   ],
-  "main": "lib/angular-scheduler.min.js",
+  "main": [
+    "css/angular-scheduler.css",
+    "lib/angular-scheduler.min.js"
+  ],
   "license": "MIT",
   "private": true,
   "dependencies": {
